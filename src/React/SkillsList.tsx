@@ -71,7 +71,6 @@ const SkillsList = () => {
       "FastAPI",
       "Spring Boot",
       "NodeJS (express)",
-      "WebSockets",
     ],
     "App Development": [
       "Android (Java, Kotlin)",
