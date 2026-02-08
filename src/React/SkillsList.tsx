@@ -84,6 +84,8 @@ const SkillsList = () => {
       "MySQL",
       "PL/SQL",
       "MongoDB",
+      "PostgreSQL",
+      "SQLite",
     ],
   }
 
